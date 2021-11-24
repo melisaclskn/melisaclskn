@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melisa</h1>
+<h1 align="center">Hi 👋, I'm Melisa.</h1>
 <h3 align="center">I'm computer engineering student at Sakarya University.</h3>
 
 <h3 align="left">Connect with me:</h3>
